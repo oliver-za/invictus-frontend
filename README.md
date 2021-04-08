@@ -3,9 +3,9 @@
 ![Node Version](https://img.shields.io/badge/node-v12.16.2-green.svg) &nbsp;
 ![React Version](https://img.shields.io/badge/react-v16.14.0-blue.svg)<br/>
 
-[Demo](https://invictusfashion.herokuapp.com/) &nbsp; &nbsp; &nbsp; [Backend](https://github.com/777pretty/invictus-backend) &nbsp; &nbsp; &nbsp; [Frontend](https://github.com/777pretty/invictus-frontend) <br/>
+[Demo](https://invictus.thezajac.com/) &nbsp; &nbsp; &nbsp; [Backend](https://github.com/oliver-za/invictus-backend) &nbsp; &nbsp; &nbsp; [Frontend](https://github.com/oliver-za/invictus-frontend) <br/>
 
-![preview](https://github.com/777pretty/invictus-backend/blob/main/invictus-preview.png)
+![preview](./invictus-preview.png)
 
 **Description**<br />
 👔 A fullstack fashion ecommerce application built using the MERN stack and more...
